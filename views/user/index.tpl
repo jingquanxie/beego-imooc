@@ -1,0 +1,1 @@
+F:\Workplace\go\src\imooc/views/user/index.tpl
