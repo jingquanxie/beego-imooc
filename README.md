@@ -84,7 +84,7 @@ go: github.com/astaxie/beego@v1.12.1: missing go.sum entry; to add it:
         
 ```
 
-至于 go mod 命令的具体作用 参照 go help 吧，看写下暂时没看懂
+至于 go mod 命令的具体作用 参照 go help 吧，暂时没看懂
 
 
 ```
@@ -122,7 +122,7 @@ imooc
 
 ## 编码
 
-### beego 框架脚手架 的初始代码借口
+### beego 框架脚手架 的初始代码接口
 
 ```
 F:\Workplace\go\src\imooc>tree
@@ -144,7 +144,7 @@ F:.
 
 ```
 
-### 试用bee 工具自动生成代码
+### 使用bee 工具自动生成代码
 
 ```
 
